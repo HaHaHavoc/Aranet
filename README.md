@@ -27,6 +27,6 @@ User-Friendly Commands: The bot's commands are intuitive and easy to use, making
 # **How to Get Started:**
 
 Invite Aranet to your Discord server.
-Use ~commands to get a list of available commands and start exploring the media library.
+Use /NSFW to get a list of available search queries to start exploring the media library.
 Start looking for adult content within your server NSFW marked channels.
 Aranet is here to enhance your Discord server's NSFW experience. Whether you want it for yourself or to use for your community, this bot has everything you need. Explore, Search, and enjoy the diverse world of NSFW media content with Aranet today!
